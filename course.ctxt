@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=course
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ course\ here.\r\n\r\n\ @author\ (Khemraj\ Singh\ Thakuri)\r\n\ @version\ (1.0)\r\n
+comment1.params=CourseID\ Course_Name\ Duration
+comment1.target=course(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getcourseid()
+comment3.params=
+comment3.target=java.lang.String\ getcoursename()
+comment4.params=
+comment4.target=java.lang.String\ getcourseleader()
+comment5.params=
+comment5.target=int\ getduration()
+comment6.params=Course_Leader
+comment6.target=void\ setCourseLeader(java.lang.String)
+comment7.params=
+comment7.target=void\ Display()
+numComments=8
